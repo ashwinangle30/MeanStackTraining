@@ -1,0 +1,29 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "Mean Stack Application",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwinangle30/MeanStackTraining.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Ashwin Angle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwinangle30/MeanStackTraining/issues"
+  },
+  "homepage": "https://github.com/ashwinangle30/MeanStackTraining#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
